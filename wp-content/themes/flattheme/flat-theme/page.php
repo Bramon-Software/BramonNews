@@ -16,7 +16,6 @@
                     <?php zee_link_pages(); ?>
                 </div>
             </article>
-            <?php comments_page(); ?>
             <?php } ?>
         </div><!--/#content-->
     </div>
